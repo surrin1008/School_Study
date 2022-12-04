@@ -14,11 +14,12 @@
 
 |||
 | -------- | -------- |
-| ![ ](https://github.com/surrin1008/1grade/blob/main/image/final%20ex1.jpg?raw=true) | ![ ](https://github.com/surrin1008/1grade/blob/main/image/middle.jpg?raw=true) |
+| ![ ](https://github.com/surrin1008/School_Study/blob/main/1%ED%95%99%EB%85%84/1%ED%95%99%EA%B8%B0/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%8B%A4%EC%8A%B5/image/middle%20ex1.jpg?raw=true)| ![ ](https://github.com/surrin1008/School_Study/blob/main/1%ED%95%99%EB%85%84/1%ED%95%99%EA%B8%B0/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%8B%A4%EC%8A%B5/image/middle.jpg?raw=true)
+|
 
 ### 🥈기말고사
 |||
 | -------- | -------- |
-| ![ ](https://github.com/surrin1008/1grade/blob/main/image/final%20ex1.jpg?raw=true) |![ ](https://github.com/surrin1008/1grade/blob/main/image/final%20ex2.jpg?raw=true) |
-|![ ](https://github.com/surrin1008/1grade/blob/main/image/final.jpg?raw=true)| 
+| ![ ](https://github.com/surrin1008/School_Study/blob/main/1%ED%95%99%EB%85%84/1%ED%95%99%EA%B8%B0/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%8B%A4%EC%8A%B5/image/final%20ex1.jpg?raw=true) |![ ](https://github.com/surrin1008/School_Study/blob/main/1%ED%95%99%EB%85%84/1%ED%95%99%EA%B8%B0/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%8B%A4%EC%8A%B5/image/final%20ex2.jpg?raw=true) |
+|![ ](https://github.com/surrin1008/School_Study/blob/main/1%ED%95%99%EB%85%84/1%ED%95%99%EA%B8%B0/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%8B%A4%EC%8A%B5/image/final.jpg?raw=true)| 
 
