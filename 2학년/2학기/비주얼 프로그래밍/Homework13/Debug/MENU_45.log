@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MENU_46.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  소스.cpp
+C:\Users\qkrrm\OneDrive\바탕 화면\20213053_46\소스.cpp(136,9): warning C4101: 'hBrush' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrrm\OneDrive\바탕 화면\20213053_46\소스.cpp(137,15): warning C4101: 'hPen' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrrm\OneDrive\바탕 화면\20213053_46\소스.cpp(137,7): warning C4101: 'oldPEN' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrrm\OneDrive\바탕 화면\20213053_46\소스.cpp(136,17): warning C4101: 'OldBrush' :참조되지 않은 지역 변수입니다.
+  MENU_45.vcxproj -> C:\Users\qkrrm\OneDrive\바탕 화면\20213053_46\Debug\MENU_45.exe

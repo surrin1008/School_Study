@@ -1,0 +1,95 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU
+BEGIN
+    POPUP "게임(G)"
+    BEGIN
+        MENUITEM "일시정지",                        ID_PAUSE
+        MENUITEM "시작",                          ID_START
+        MENUITEM "다시시작",                        ID_RESTART
+    END
+    POPUP "설정(C)"
+    BEGIN
+        POPUP "배경음악"
+        BEGIN
+            MENUITEM "켜기",                          ID_SOUND_TRUE, CHECKED
+            MENUITEM "끄기",                          ID_SOUND_FLASE
+        END
+        MENUITEM "효과음",                         ID_40026
+        POPUP "속도"
+        BEGIN
+            MENUITEM "느리게",                         ID_SPEED_SLOW
+            MENUITEM "보통",                          ID_SPEED_NOMAL
+            MENUITEM "빠르게",                         ID_SPEED_FAST
+        END
+        MENUITEM "설정 초기화",                      ID_SETUP
+    END
+    MENUITEM "윈도우(W)",                      ID_40022
+    MENUITEM "도움말(H)",                      ID_40023
+END
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
